@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+def print_hello():
+    print("hello world")
+
+
+if __name__=='__main__':
+    print_hello()
+    
